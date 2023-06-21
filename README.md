@@ -3,7 +3,7 @@ A Node.js command-line application that takes in user input to generate a logo a
 
 ## Usage
 
-Please utilize the command line on your machine to use this generator. This generator utilizes node.js with the inquirer 8.2.4 package and the latest version of jest.  
+Please utilize the command line on your machine to use this generator. This generator utilizes node.js with the inquirer 8.2.4 package and the latest version of jest. Run node index.js to prompt the questions. Run npm test in order to ensure that all tests are working properly. 
 
 [Recording of functionality](https://watch.screencastify.com/v/xhBEOJRbrxKotgNlal2S)
 
